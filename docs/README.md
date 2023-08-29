@@ -22,7 +22,7 @@ features:
   - icon: repo
     title: 医藏
     details: 中医书籍。
-    link: https://ruguoaaa.github.io/xirang1/医藏/
+    link: /医藏/
   
   - icon: repo
     title: 易藏

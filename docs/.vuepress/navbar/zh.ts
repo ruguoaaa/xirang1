@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export const zhNavbar = navbar([
   "/",
   { text: "诗藏", icon: "news", link: "https://ruguoaaa.github.io/xirang/诗藏/" },
-  { text: "医藏", icon: "note", link: "https://ruguoaaa.github.io/xirang1/医藏/" },
+  { text: "医藏", icon: "note", link: "/医藏/" },
   { text: "易藏", icon: "page", link: "https://ruguoaaa.github.io/xirang2/易藏/" },
   { text: "史藏", icon: "overflow", link: "https://ruguoaaa.github.io/xirang3/史藏/" },
   { text: "子藏", icon: "read", link: "https://ruguoaaa.github.io/xirang4/子藏/" },
