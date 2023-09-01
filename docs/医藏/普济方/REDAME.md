@@ -1,11 +1,11 @@
 ---
-title: 古今医统大全
+title: 普济方
 index: false
 icon: folder
-order: 13
+order: 15
 category:
   - 医藏
-  - 古今医统大全
+  - 普济方
 ---
 
 <AutoCatalog  />
